@@ -1,6 +1,6 @@
 # Studio Sensorium website
 
-Static site for https://studiosensorium.in. Plain HTML and CSS, no build step.
+Static site for https://studiosensorium.in. Plain HTML and CSS, no build step. Site files are in `studiosensorium/`.
 
 ## Pages
 - `index.html`: Home
