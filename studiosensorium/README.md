@@ -6,7 +6,7 @@ Static site for https://studiosensorium.in. Plain HTML and CSS, no build step.
 - `index.html`: Home
 - `work.html`: Work (placeholder project cards, to replace)
 - `about.html`: About (a team section can be added where marked)
-- `contact.html`: Contact (mailto links to hello@studiosensorium.in)
+- `contact.html`: Contact (mailto links to ajottam@studiosensorium.in)
 - `404.html`: Not-found page
 
 ## Preview locally
