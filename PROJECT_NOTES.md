@@ -64,6 +64,19 @@ Harmless leftovers from GoDaddy: `email` CNAME, `secureserver1/2._domainkey`,
 7. **Email is safe if you only edit the website records:** changing the `@` A
    record and the `www` CNAME never affects Migadu.
 
+## How we worked
+- **Screenshots were the fastest way to fix things:** each one showed exactly
+  where the problem was (wrong branch, Framer records, domain not added,
+  private setting).
+- **Starting simple paid off:** plain HTML with no build step meant almost
+  nothing could break during deployment.
+- **Placeholders beat invented content:** draft wording, with clear gaps for
+  real projects and team details.
+- **Check instructions against the screen:** when guidance and the dashboard
+  disagree, the dashboard wins.
+- **Agree a clear brief before building:** four pages, minimal, "Get in touch",
+  and the domain. That is what got the site live.
+
 ## Still to do
 - [ ] Confirm HTTPS is active in Netlify and the site is public (Visitor access off).
 - [ ] Remove `studiosensorium.in` from the old Framer project.
